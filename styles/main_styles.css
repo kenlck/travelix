@@ -350,7 +350,7 @@ section
 	display: inline-block;
 	margin-right: 36px;
 	line-height: 36px;
-	font-size: 10px;
+	font-size: 12px;
 	font-weight: 600;
 	color: #FFFFFF;
 }
@@ -424,7 +424,7 @@ section
 }
 .main_nav_col
 {
-	height: 143px;
+	height: 120px;
 	-webkit-transition: all 400ms ease;
 	-moz-transition: all 400ms ease;
 	-ms-transition: all 400ms ease;
