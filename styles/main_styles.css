@@ -314,13 +314,13 @@ section
 	position: fixed;
 	width: 100%;
 	/*background: rgba(54, 19, 84, 0.6);*/
-	background: rgba(0, 65, 54, 0);
+	background: #FF6F61;
 	z-index: 12;
 }
 .header.scrolled
 {
 	/*background: rgba(54, 19, 84, 0.85);*/
-	background: rgba(0, 65, 54, 0);
+	background: #FF6F61;
 }
 
 /*********************************
