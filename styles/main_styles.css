@@ -555,7 +555,7 @@ section
 }
 .content_search:hover .mag_glass
 {
-	fill: #fa9e1c;
+	fill: #FF6D70;
 }
 .search_form
 {
@@ -623,7 +623,7 @@ section
 }
 .hamburger:hover i
 {
-	color: #fa9e1c;
+	color: #FF6D70;
 }
 .menu
 {
