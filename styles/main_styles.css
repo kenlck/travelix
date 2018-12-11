@@ -1010,8 +1010,8 @@ section
 }
 .search_tab:hover
 {
-	background: linear-gradient(to left, #FF6D70, #40e0d0);
 	/*background: #fa9e1b;*/
+	background: #FF6D70;
 	color: #FFFFFF;
 }
 .search_tab:hover img
