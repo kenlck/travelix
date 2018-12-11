@@ -745,7 +745,8 @@ section
 .menu_close_container:hover .menu_close,
 .menu_close_container:hover .menu_close::after
 {
-	background: #fa9e1c;
+	background: #FF6D70;
+	/*background: #fa9e1c; - orange color*/
 }
 
 /*********************************
