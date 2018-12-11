@@ -997,7 +997,7 @@ section
 .search_tab.active
 {
 	/*background: #fa9e1b;*/
-	background: linear-gradient(to left, #FF6D70, #40e0d0);
+	background: #FF6D70;
 	color: #FFFFFF;
 }
 .search_tab.active img
