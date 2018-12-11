@@ -464,6 +464,7 @@ section
 	font-size: 30px;
 	color: #f4f4f8;
 	font-weight: 800;
+	position: relative;
 	text-transform: uppercase;
 }
 .logo a img
